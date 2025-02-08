@@ -7,14 +7,14 @@ Sachin Gate's one page bootstrap 3 based resume/portfolio.
 Template Info:
 -----------------------
 Name: 		Sachin - Bootstrap One Page Portfolio Resume 
-Version: 	1.0
+Version: 	2.0
 Author: 	Sachin Gate
-Website: 	
+Website: 	https://gatesachin1.github.io/sachin-gate/
 
 
 Changelog:
 -----------------------
-Version 1.0 13-11-2024
+Version 1.0 08-02-2025
 - initial release 
 
 
